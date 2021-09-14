@@ -4,7 +4,7 @@
 
 Languages: HTML, CSS, JSX, React
 
-[GitHub] ( )
+[Heroku] ( )
 
 #### LOGO
 This is the beggining stages of a mentoring application that will connect mentors with local schools.
