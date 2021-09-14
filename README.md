@@ -21,4 +21,3 @@ troubleshooting bugs
 - Add more indepth pages for informational purpose
 - Add form feature
 - Add profile components
-
