@@ -11,9 +11,9 @@ This is the beginning stages of a mentoring application that will connect mentor
 
 
 #### Blockers
-Incorporating API and passing props to nested components
-Incorporating new coding techniques
-troubleshooting bugs
+- Incorporating API and passing props to nested components
+- Incorporating new coding techniques
+- troubleshooting bugs
 
 
 #### Things to do
