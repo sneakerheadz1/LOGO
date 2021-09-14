@@ -1,6 +1,8 @@
 import React from 'react'
+import DisplayList from './DisplayList'
 
 function Display() {
+    
     return (
         <div id='display-card'>
 
@@ -8,7 +10,7 @@ function Display() {
                 <img src="" alt="" />
             </figure>
             <h4>School Name: </h4>
-            <span>Address: </span> 
+            <span>Address:  </span> 
             <span>State: </span> 
             <span>Zip Code: </span> 
 
